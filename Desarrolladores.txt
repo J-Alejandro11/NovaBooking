@@ -1,10 +1,6 @@
 Jefferson Alejandro Tzib Figueroa
-<<<<<<<<< Temporary merge branch 1
-Angel Allan Francisco Chiquin Gomez
 Raymid Gilberto Heseth Caal Morales
-=========
 Angel Allan Francisco Chiquin Gomez Rama Dev_Allan el master
->>>>>>>>> Temporary merge branch 2
 
 develop 
 
